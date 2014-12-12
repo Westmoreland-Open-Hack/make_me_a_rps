@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rock Paper Scissors</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="gitjhn-js/mystyle.css">
+</head>
+<body>
+<div class="blackboard">
+<h3>WOH Homework</h3>
+<h1>Rock Paper Scissors</h1>
+<h1>javascript</h1>
+<h3>Version 0.1</h3>
+</div>
+<br>
+<h4>This is an example of the Rock Paper Scissors Exercise written in javascript. The original GitHub repository can be found <a href="https://github.com/Westmoreland-Open-Hack/make_me_a_rps">HERE.</a></h4>
+<br>
+<h2>Assignment: Step One</h2>
+<p>1. Creating a random number and printing to the browser's console.</p>
+<div class="code">
+var random1 = Math.random();
+<br>
+console.log("This is a random number "+random1);
+</div>
+<br>
+<p>2. Now we will loop it 3 times.</p>
+<div class="code">
+var limit = 3;
+<br>
+for (var i = 1; i <= limit; i++) {
+<br>
+&nbsp;&nbsp;&nbsp;var random2 = Math.random();
+<br>
+&nbsp;&nbsp;&nbsp;console.log("2."+i+" This is a random number "+random2);
+<br>
+};
+</div>
+<br>
+<p>3. Extracted to a function.</p>
+<div class="code">
+function makeRandon(i){
+<br>
+&nbsp;&nbsp;&nbsp;var random3 = Math.random();
+<br>
+&nbsp;&nbsp;&nbsp;console.log("3."+i+" This is a random number "+random3);
+<br>
+};
+<br>
+<br>
+for (var i = 1; i <= limit; i++) {
+<br>
+&nbsp;&nbsp;&nbsp;makeRandon(i);
+<br>
+};
+</div>
+<p>Open your browser's conole to see the results. ( Usually by pressing the [F12] key. )</p>
+<script src="gitjhn-js/myscripts.js"></script>
+</body>
+</html>
