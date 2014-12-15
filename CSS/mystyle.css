@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: coffeehouse;
-    src: url(CoffeeHouse.ttf);
+    src: url(FONTS/CoffeeHouse.ttf);
 }
 
 body {
-    background-color: #fefeff;
+    background-color: #aaaaee;
     padding: 20px;
 }
 
