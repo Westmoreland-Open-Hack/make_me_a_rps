@@ -57,6 +57,6 @@ Assuming your language has a Random or PseudoRandom number generator we are goin
     ```
 
 ### What have we done
-If you have successfully completed these steps you have a great grounding in your language. You know how to include an external library or call a Class. You can write a loop and make a function
+If you have successfully completed these steps you have a great grounding in your language. You know how to include an external library or call a Class. You can write a loop and make a function.
 
 ##### Take a break and then move on to step two where we start working with data

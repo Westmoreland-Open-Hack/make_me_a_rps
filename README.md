@@ -29,4 +29,6 @@ I will use these together. From time to time. Here is an example:
     OR
     `Ruby` Random
 
+- `=>` describes the results of an expression. Expressions are anything that does work from `a = 1` to `a.thing(b.anotherthing)`. I will use these characters to express what the results would be even though you will see no output
+
 Somtimes the text inside these characters represents info only you know or the specific text. It is understandable that the only time variable text will be present is between the `[` and `]` as a literal of required text would not need to be outlined with `<` and `>`
