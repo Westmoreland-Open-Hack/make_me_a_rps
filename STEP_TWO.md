@@ -88,3 +88,17 @@ data:  | A | _ | _ | _ | _ | B | _ | _ | _ | C |
 
 ### Wow that is a lot so lets make something finally!
 
+1. Research Arrays and creating arrays using your search engine
+    `<Your Language> [create] Array`
+
+2. Once you have a sample in hand its time to give it a try
+3. Attempt to replicate this Pseudo Logic in your language of choice
+
+    ```
+    choices = new Array(3)
+    choices[0] = 'r'
+    choices[1] = 'p'
+    choices[2] = 's'
+    ```
+ 
+ 4. 
